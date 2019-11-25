@@ -1,16 +1,15 @@
 <?php 
 
-namespace App\Controllers;
-use Core\View;
+namespace App\Controllers\Admin;
 
-class Home extends \Core\Controller
+class User extends \Core\Controller
 {
 	protected function before()
     {
         echo "(before) ";
         //return false;
     }
-
+    
     protected function after()
     {
         echo " (after)";
@@ -18,6 +17,6 @@ class Home extends \Core\Controller
 
     public function indexAction()
     {
-        View::render('Home/edit');
+        echo 'Hello from the index action in the User controller!';
     }
 }
