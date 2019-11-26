@@ -1,0 +1,234 @@
+[26-Nov-2019 11:20:08 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: <pre>#0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:20:08 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: <pre>#0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:20:23 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: <pre>#0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:20:23 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: <pre>#0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:20:54 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:20:54 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:43:35 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:43:37 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:43:40 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:43:41 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:57:26 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:57:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Wrong parameters for ErrorException([string $message [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Throwable $previous = NULL]]]]]]) in C:\xampp\htdocs\tew\Core\Error.php:9
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(9): ErrorException->__construct('Undefined varia...', 0, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39)
+#1 C:\xampp\htdocs\tew\Core\Error.php(39): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39, Array)
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 9
+[26-Nov-2019 11:57:31 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('lsdkjf')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:57:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Wrong parameters for ErrorException([string $message [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Throwable $previous = NULL]]]]]]) in C:\xampp\htdocs\tew\Core\Error.php:9
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(9): ErrorException->__construct('Undefined varia...', 0, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39)
+#1 C:\xampp\htdocs\tew\Core\Error.php(39): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39, Array)
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 9
+[26-Nov-2019 11:57:31 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:57:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Wrong parameters for ErrorException([string $message [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Throwable $previous = NULL]]]]]]) in C:\xampp\htdocs\tew\Core\Error.php:9
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(9): ErrorException->__construct('Undefined varia...', 0, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39)
+#1 C:\xampp\htdocs\tew\Core\Error.php(39): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39, Array)
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 9
+[26-Nov-2019 11:58:15 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:58:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'App\View' not found in C:\xampp\htdocs\tew\Core\Error.php:40
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 40
+[26-Nov-2019 11:58:15 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:58:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'App\View' not found in C:\xampp\htdocs\tew\Core\Error.php:40
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 40
+[26-Nov-2019 11:58:34 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:58:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Wrong parameters for ErrorException([string $message [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Throwable $previous = NULL]]]]]]) in C:\xampp\htdocs\tew\Core\Error.php:10
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(10): ErrorException->__construct('Undefined varia...', 0, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\tew\Core\Error.php(40): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 10
+[26-Nov-2019 11:58:34 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:58:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Wrong parameters for ErrorException([string $message [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Throwable $previous = NULL]]]]]]) in C:\xampp\htdocs\tew\Core\Error.php:10
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(10): ErrorException->__construct('Undefined varia...', 0, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\tew\Core\Error.php(40): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 10
+[26-Nov-2019 11:59:38 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:59:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Wrong parameters for ErrorException([string $message [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Throwable $previous = NULL]]]]]]) in C:\xampp\htdocs\tew\Core\Error.php:10
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(10): ErrorException->__construct('Undefined varia...', 0, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\tew\Core\Error.php(40): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 10
+[26-Nov-2019 11:59:38 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 11:59:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Wrong parameters for ErrorException([string $message [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Throwable $previous = NULL]]]]]]) in C:\xampp\htdocs\tew\Core\Error.php:10
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(10): ErrorException->__construct('Undefined varia...', 0, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\tew\Core\Error.php(40): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\tew\Core\Error.php on line 10
+[26-Nov-2019 12:00:44 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 12:00:44 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ../App/Views/404.php.php Not found in C:\xampp\htdocs\tew\Core\View.php:13
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(41): Core\View::render('404.php')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\tew\Core\View.php on line 13
+[26-Nov-2019 12:00:44 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 12:00:44 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ../App/Views/404.php.php Not found in C:\xampp\htdocs\tew\Core\View.php:13
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(41): Core\View::render('404.php')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\tew\Core\View.php on line 13
+[26-Nov-2019 12:01:00 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 12:01:00 Europe/Berlin] PHP Fatal error:  Uncaught Exception: ../App/Views/404.php Not found in C:\xampp\htdocs\tew\Core\View.php:13
+Stack trace:
+#0 C:\xampp\htdocs\tew\Core\Error.php(41): Core\View::render('404')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\tew\Core\View.php on line 13
+[26-Nov-2019 12:03:07 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 12:03:09 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 12:03:10 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'No route matched.
+Stack trace: #0 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('prodect/')
+#1 {main}
+Throw in C:\xampp\htdocs\tew\Core\Router.php on line 93
+
+
+[26-Nov-2019 12:03:31 Europe/Berlin] Uncought Exception: 'ExceptionMessage: 'Method indeAction not found in controller App\Controllers\Posts
+Stack trace: #0 C:\xampp\htdocs\tew\Core\Router.php(82): Core\Controller->__call('inde', Array)
+#1 C:\xampp\htdocs\tew\public\index.php(25): Core\Router->dispatch('posts/inde')
+#2 {main}
+Throw in C:\xampp\htdocs\tew\Core\Controller.php on line 26
+
+
